@@ -19,8 +19,7 @@
 - Press **`Ctrl + Shift + I`** to open DevTools.  
 - Go to the **Console** tab.  
 - **Paste** the following command and press `Enter`:
-(`You Need To Copy The Content In The Index.js`)
 
 
 ```js
-(async () => { const s = document.createElement('script'); s.src = 'https://raw.githubusercontent.com/YOUR_USERNAME/Taiki/main/taiki.user.js'; document.head.appendChild(s); })();
+(async () => { const s = document.createElement('script'); s.src = 'https://raw.githubusercontent.com/0e644/Taiki/main/taiki.user.js'; document.head.appendChild(s); })();
