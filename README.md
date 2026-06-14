@@ -12,7 +12,7 @@
 - Download and install [Vencord](https://vencord.dev/) for Discord Desktop.
 
 ### 2. Add the Taiki plugin
-- Download the custom plugin file (`taikiPlugin.js`) from this repository.
+- Download the custom plugin file (`taiki.user.js`) from this repository.
 
 ### 3. Run Taiki
 - Open Discord Desktop.  
